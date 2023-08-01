@@ -1,1 +1,14 @@
-<img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2019/12/home-new-bg-free-img.jpg" alt="" />
+import React from 'react'
+import styled from "../HomeTop/Hometop.scss"
+const Hometop = () => {
+  return (
+    <div className='top'>
+        assssss
+    </div>
+  )
+}
+
+export default Hometop
+
+
+
