@@ -9,13 +9,18 @@ const Navbar = () => {
                     <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2018/12/logo1-free-img.png" alt="" />
                 </div>
                 <div className="col-xl-6">
-                    <a href="">EVERYTHING</a>
+                   <div className="menulinks">
+                   <a href="">EVERYTHING</a>
                     <a href="">WOMEN</a>
                     <a href="">MEN</a>
                     <a href="">ACCESSORIES</a>
+                   </div>
                 </div>
                 <div className="col-xl-4">
-                    
+                  <div className="rightnav">
+                  <a href="">ABOUT</a>
+                   <a href="">CONTACT US</a>
+                  </div>
                 </div>
             </div>
         </div>

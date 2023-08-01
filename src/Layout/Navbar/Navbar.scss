@@ -1,3 +1,36 @@
 .navbar{
+    background-image: url("https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2019/12/home-new-bg-free-img.jpg");
+    background-attachment: fixed;
     background-color: rgba(0,0,0,0.07);
+    .row{
+        width: 100%;
+    }
+    img{
+        width: 80%;
+        margin-left: -40px;
+        padding-top: 20px;
+    }
+   .menulinks{
+    padding-top: 30px;
+    margin-left: -50px;
+    a{
+        font-family: inherit;
+        letter-spacing: 0.1rem;
+        font-weight: 640;
+        padding-left: 25px;
+        color: white;
+        text-decoration: none;
+    }
+   }
+   .rightnav{
+    padding-top: 30px;
+    a{
+        padding-left: 20px;
+        color: white;
+        text-decoration: none;
+        font-family: inherit;
+        letter-spacing: 0.1rem;
+        font-weight: 640;
+    }
+   }
 }
