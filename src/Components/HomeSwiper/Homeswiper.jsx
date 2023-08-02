@@ -4,7 +4,6 @@ import styled from "../HomeSwiper/Homeswiper.scss"
 import 'swiper/less';
 import 'swiper/less/navigation';
 import 'swiper/less/pagination';
-// Import Swiper styles
 import 'swiper/css';
 
 export default () => {
@@ -14,8 +13,7 @@ export default () => {
       spaceBetween={0}
       slidesPerView={5}
       onSlideChange={() => console.log('slide change')}
-      onSwiper={(swiper) => console.log(swiper)}
-    >
+      onSwiper={(swiper) => console.log(swiper)}>
       <div className="swiperimg">
       <SwiperSlide><img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2022/08/client-logo-5.png" alt="" /></SwiperSlide>
       <SwiperSlide><img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2021/03/client-logo-2.png" alt="" /></SwiperSlide>

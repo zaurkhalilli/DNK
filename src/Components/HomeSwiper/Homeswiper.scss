@@ -1,8 +1,10 @@
 .swiper{
     margin-top: 100px;
+    .swiper-initialized{
+        padding-left: 100px;
+    }
     img{
-        width: 30%;
+        width: 45%;
     }
-    .swiperimg{
-    }
+    
 }
