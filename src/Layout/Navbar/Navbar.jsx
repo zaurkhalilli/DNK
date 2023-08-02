@@ -1,5 +1,6 @@
 import React from 'react'
 import styled from "../Navbar/Navbar.scss"
+import {PiUserFill} from "react-icons/pi"
 const Navbar = () => {
   return (
     <div className='navbar'>
@@ -19,7 +20,8 @@ const Navbar = () => {
                 <div className="col-xl-4">
                   <div className="rightnav">
                   <a href="">ABOUT</a>
-                   <a href="">CONTACT US</a>
+                  <a href="">CONTACT US</a>
+                  <a href=""> <PiUserFill size={23} /> Login/Register</a>
                   </div>
                 </div>
             </div>
