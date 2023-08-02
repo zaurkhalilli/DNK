@@ -1,0 +1,24 @@
+.shop{
+    box-sizing: border-box;
+    padding-top: 100px;
+    text-align: center;
+    img{
+        width: 100%;
+    }
+    p{
+        padding-top: 30px;
+        font-size: 1.5rem;
+        font-weight: 640;
+    }
+    span{
+        font-weight: 640;
+        font-size: 1.2rem;
+    }
+    button{
+    color: white;
+    padding: 11px;
+    width: 180px;
+    background-color: black;
+    font-weight: 640;
+    }
+}
