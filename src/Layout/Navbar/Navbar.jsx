@@ -1,13 +1,14 @@
 import React from 'react'
 import styled from "../Navbar/Navbar.scss"
 import {PiUserFill} from "react-icons/pi"
+import { Link } from 'react-router-dom'
 const Navbar = () => {
   return (
     <div className='navbar'>
         <div className="container">
             <div className="row">
                 <div className="col-xl-2">
-                    <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2018/12/logo1-free-img.png" alt="" />
+                   <Link to="/"><img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2018/12/logo1-free-img.png" alt="" /></Link>
                 </div>
                 <div className="col-xl-6">
                    <div className="menulinks">
@@ -19,9 +20,9 @@ const Navbar = () => {
                 </div>
                 <div className="col-xl-4">
                   <div className="rightnav">
-                  <a href="">ABOUT</a>
+                  <Link to="/about">ABOUT</Link>
                   <a href="">CONTACT US</a>
-                  <a href=""> <PiUserFill size={23} /> Login/Register</a>
+                  <Link to="/login"><PiUserFill size={23} /> Login/Register</Link>
                   </div>
                 </div>
             </div>
