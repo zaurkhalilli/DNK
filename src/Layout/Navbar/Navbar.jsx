@@ -24,7 +24,6 @@ const Navbar = () => {
                   <a href="">CONTACT US</a>
                   <Link to="/login"><PiUserFill size={23} /> Login/Register</Link>
                   </div>
-                  
                 </div>
             </div>
         </div>
