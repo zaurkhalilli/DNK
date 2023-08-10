@@ -3,8 +3,10 @@ import styled from "../HomeProduct/Homeproduct.scss"
 const Homeproduct = () => {
   return (
     <div className='product'>
-      <h3>Featured Products</h3>
+     <div className="producthead">
+     <h3>Featured Products</h3>
       <hr />
+     </div>
     </div>
   )
 }
