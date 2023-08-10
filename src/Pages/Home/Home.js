@@ -16,7 +16,6 @@ const Home = () => {
         <Homeproduct/>
       </Layout>
     </div>
-    
   )
 }
 
