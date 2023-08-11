@@ -3,6 +3,7 @@ import styled from "../Footer/Footer.scss"
 const Footer = () => {
   return (
     <div className='footer'>
+      
     </div>
   )
 }
