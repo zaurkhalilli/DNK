@@ -28,6 +28,7 @@ const Homeshop = () => {
                 <br />
                 <br />
                 <button>CHECK OUT</button>
+                
             </div>
         </div>
       </div>
