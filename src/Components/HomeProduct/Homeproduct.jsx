@@ -16,6 +16,7 @@ const Homeproduct = () => {
       <div class="grid-item">7</div>
       <div class="grid-item">8</div>
       <div class="grid-item">9</div>  
+      <div class="grid-item">10</div>  
 </div>
 
      </div>
