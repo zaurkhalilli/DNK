@@ -2,15 +2,20 @@
     margin-top: 100px;
     background-color: #f5f7f9;
   .producthead{
+    padding-top: 50px;
     text-align: center;
+    h3{
+      font-size: 2.5rem;
+    }
     hr{
+        margin: 0 auto;
         width: 10%;
         color: #0084d6;
     }
     .grid-container {
+      margin-top: 40px;
       display: grid;
       grid-template-columns: auto auto auto auto auto;
-      background-color: #2196F3;
       padding: 10px;
     }
     .grid-item {
