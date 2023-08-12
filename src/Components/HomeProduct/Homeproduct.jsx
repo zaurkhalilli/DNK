@@ -10,10 +10,10 @@ const Homeproduct = () => {
       <div class="grid-item"><img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2021/03/sports-shoe3-300x300.jpg" alt="" /></div>
       <div class="grid-item"><img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2021/03/sports-shoe1-300x300.jpg" alt="" /></div>
       <div class="grid-item"><img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-m-jeans1-300x300.jpg" alt="" /></div>  
-      <div class="grid-item"><img src="" alt="" /></div>
-      <div class="grid-item">5</div>
-      <div class="grid-item">6</div>  
-      <div class="grid-item">7</div>
+      <div class="grid-item"><img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-w-jeans2-300x300.jpg" alt="" /></div>
+      <div class="grid-item"><img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-w-jeans4-300x300.jpg" alt="" /></div>
+      <div class="grid-item"><img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-w-jeans1-300x300.jpg" alt="" /></div>  
+      <div class="grid-item"></div>
       <div class="grid-item">8</div>
       <div class="grid-item">9</div>  
       <div class="grid-item">10</div>  
