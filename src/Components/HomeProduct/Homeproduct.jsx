@@ -8,9 +8,9 @@ const Homeproduct = () => {
       <hr />
       <div class="grid-container">
       <div class="grid-item"><img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2021/03/sports-shoe3-300x300.jpg" alt="" /></div>
+      <div class="grid-item"><img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2021/03/sports-shoe1-300x300.jpg" alt="" /></div>
+      <div class="grid-item"><img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-m-jeans1-300x300.jpg" alt="" /></div>  
       <div class="grid-item"><img src="" alt="" /></div>
-      <div class="grid-item">3</div>  
-      <div class="grid-item">4</div>
       <div class="grid-item">5</div>
       <div class="grid-item">6</div>  
       <div class="grid-item">7</div>
