@@ -1,5 +1,6 @@
 import React from 'react'
 import styled from "../HomeProduct/Homeproduct.scss"
+import {AiOutlineStar} from "react-icons/ai";
 const Homeproduct = () => {
   return (
     <div className='product'>
@@ -9,7 +10,16 @@ const Homeproduct = () => {
       <div class="grid-container">
       <div class="grid-item">
         <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2021/03/sports-shoe3-300x300.jpg" alt="" />
-        
+        <div className="grid-txt">
+        <a href="">DNK Yellow Shoes</a>
+        <h5>Men</h5>
+        <div className="pricetxt">
+        <p>$150.00 </p> 
+        <span>$120.00</span>
+        </div>
+        <AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/>
+       
+        </div>
         </div>
       <div class="grid-item">
         <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2021/03/sports-shoe1-300x300.jpg" alt="" />
