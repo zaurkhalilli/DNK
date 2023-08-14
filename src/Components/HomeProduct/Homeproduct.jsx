@@ -12,7 +12,7 @@ const Homeproduct = () => {
         <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2021/03/sports-shoe3-300x300.jpg" alt="" />
         <div className="grid-txt">
         <a href="">DNK Yellow Shoes</a>
-        <h5>Men</h5>
+        <h6>Men</h6>
         <div className="pricetxt">
         <p>$150.00 </p> 
         <span>$120.00</span>
@@ -25,15 +25,63 @@ const Homeproduct = () => {
         </div>
       <div class="grid-item">
         <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2021/03/sports-shoe1-300x300.jpg" alt="" />
+        <div className="grid-txt">
+        <a href="">DNK Yellow Shoes</a>
+        <h6>Men</h6>
+        <div className="pricetxt">
+        <p>$150.00 </p> 
+        <span>$120.00</span>
+        </div>
+       <div className="icons">
+       <AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/>
+       </div>
+       
+        </div>
         </div>
       <div class="grid-item">
         <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-m-jeans1-300x300.jpg" alt="" />
+        <div className="grid-txt">
+        <a href="">DNK Yellow Shoes</a>
+        <h6>Men</h6>
+        <div className="pricetxt">
+        <p>$150.00 </p> 
+        <span>$120.00</span>
+        </div>
+       <div className="icons">
+       <AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/>
+       </div>
+       
+        </div>
         </div>  
       <div class="grid-item">
         <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-w-jeans2-300x300.jpg" alt="" />
+        <div className="grid-txt">
+        <a href="">DNK Yellow Shoes</a>
+        <h6>Men</h6>
+        <div className="pricetxt">
+        <p>$150.00 </p> 
+        <span>$120.00</span>
+        </div>
+       <div className="icons">
+       <AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/>
+       </div>
+       
+        </div>
         </div>
       <div class="grid-item">
         <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-w-jeans4-300x300.jpg" alt="" />
+        <div className="grid-txt">
+        <a href="">DNK Yellow Shoes</a>
+        <h6>Men</h6>
+        <div className="pricetxt">
+        <p>$150.00 </p> 
+        <span>$120.00</span>
+        </div>
+       <div className="icons">
+       <AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/>
+       </div>
+       
+        </div>
         </div>
       <div class="grid-item">
         <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-w-jeans1-300x300.jpg" alt="" />
