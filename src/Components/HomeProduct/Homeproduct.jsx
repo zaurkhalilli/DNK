@@ -17,7 +17,9 @@ const Homeproduct = () => {
         <p>$150.00 </p> 
         <span>$120.00</span>
         </div>
-        <AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/>
+       <div className="icons">
+       <AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/>
+       </div>
        
         </div>
         </div>
