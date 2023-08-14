@@ -39,7 +39,7 @@ const Homeproduct = () => {
         </div>
         </div>
       <div class="grid-item">
-        <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-m-jeans1-300x300.jpg" alt="" />
+       <a href=""> <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-m-jeans1-300x300.jpg" alt="" /></a>
         <div className="grid-txt">
         <a href="">Dark Brown Jeans</a>
         <h6>Men</h6>
@@ -54,7 +54,7 @@ const Homeproduct = () => {
         </div>
         </div>  
       <div class="grid-item">
-        <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-w-jeans2-300x300.jpg" alt="" />
+       <a href=""> <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-w-jeans2-300x300.jpg" alt="" /></a>
         <div className="grid-txt">
         <a href="">Blue Denim Jeans</a>
         <h6>Women</h6>
