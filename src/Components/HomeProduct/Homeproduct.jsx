@@ -24,7 +24,7 @@ const Homeproduct = () => {
         </div>
         </div>
       <div class="grid-item">
-        <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2021/03/sports-shoe1-300x300.jpg" alt="" />
+        <a href=""><img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2021/03/sports-shoe1-300x300.jpg" alt="" /></a>
         <div className="grid-txt">
         <a href="">DNK Blue Shoes</a>
         <h6>Men</h6>
