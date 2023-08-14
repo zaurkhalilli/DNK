@@ -69,7 +69,7 @@ const Homeproduct = () => {
         </div>
         </div>
       <div class="grid-item">
-        <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-w-jeans4-300x300.jpg" alt="" />
+       <a href=""> <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-w-jeans4-300x300.jpg" alt="" /></a>
         <div className="grid-txt">
         <a href="">Basic Gray Jeans</a>
         <h6>Women</h6>
@@ -84,7 +84,7 @@ const Homeproduct = () => {
         </div>
         </div>
       <div class="grid-item">
-        <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-w-jeans1-300x300.jpg" alt="" />
+       <a href=""> <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-w-jeans1-300x300.jpg" alt="" /></a>
         <div className="grid-txt">
         <a href="">Blue Denim Shorts</a>
         <h6>Women</h6>
