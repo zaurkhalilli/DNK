@@ -99,7 +99,7 @@ const Homeproduct = () => {
         </div>
         </div>  
       <div class="grid-item">
-        <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-accessory2-300x300.jpg" alt="" />
+        <a href=""><img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-accessory2-300x300.jpg" alt="" /></a>
         <div className="grid-txt">
         <a href="">Anchor Bracelet</a>
         <h6>Accessories</h6>
@@ -110,11 +110,10 @@ const Homeproduct = () => {
        <div className="icons">
        <AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/><AiOutlineStar size={20}/>
        </div>
-       
         </div>
         </div>
       <div class="grid-item">
-        <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-accessory1-300x300.jpg" alt="" />
+      <a href="">  <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-accessory1-300x300.jpg" alt="" /></a>
         <div className="grid-txt">
         <a href="">Boho Bangle Bracelet</a>
         <h6>Accessories</h6>
@@ -129,7 +128,7 @@ const Homeproduct = () => {
         </div>
         </div>
       <div class="grid-item">
-        <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-bag1-300x300.jpg" alt="" />
+       <a href=""> <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-bag1-300x300.jpg" alt="" /></a>
         <div className="grid-txt">
         <a href="">Light Brown Purse</a>
         <h6>Accessories</h6>
@@ -144,7 +143,7 @@ const Homeproduct = () => {
         </div>
         </div>  
       <div class="grid-item">
-        <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-bag3-300x300.jpg" alt="" />
+       <a href=""> <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2017/12/product-bag3-300x300.jpg" alt="" /></a>
         <div className="grid-txt">
         <a href="">Bright Red Bag</a>
         <h6>Accessories</h6>
