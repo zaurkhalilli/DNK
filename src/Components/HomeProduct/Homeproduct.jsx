@@ -9,7 +9,7 @@ const Homeproduct = () => {
       <hr />
       <div class="grid-container">
       <div class="grid-item">
-        <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2021/03/sports-shoe3-300x300.jpg" alt="" />
+       <a href=""> <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2021/03/sports-shoe3-300x300.jpg" alt="" /></a>
         <div className="grid-txt">
         <a href="">DNK Yellow Shoes</a>
         <h6>Men</h6>
