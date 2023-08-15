@@ -1,4 +1,12 @@
 .special{
     background-image: url("https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2019/12/banner-03.jpg");
     background-attachment: fixed;
+    background-position: center;
+    .specialtxt{
+        padding: 80px 150px;
+        max-width: 800px;
+        p{
+            color: #fff;
+        }
+    }
 }
