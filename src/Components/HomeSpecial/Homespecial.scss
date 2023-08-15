@@ -1,25 +1,31 @@
 .special{
     background-attachment: fixed;
-    background-position: center;
+    background-position: top;
     background-image: url("https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2019/12/banner-03.jpg");
     .specialtxt{
-        padding: 80px 150px;
+        padding: 100px 150px;
         max-width: 800px;
         p{
             color: #fff;
-            font-size: 1.4rem;
+            font-size: 1.5rem;
             font-weight: 640;
         }
         h2{
             color: #fff;
-            font-size: 2.7rem;
+            font-size: 2.9rem;
         }
         span{
             color: #fff;
+            padding-top: 15px;
         }
         h5{
             padding-top: 20px;
+            font-weight: 640;
             color: #fff;
+            padding-bottom: 50px;
+        }
+        button{
+            border: none;
         }
     }
 }
