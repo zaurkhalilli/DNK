@@ -7,7 +7,7 @@ const Homespecial = () => {
         <p>Limited Time Offer</p>
         <h2>Special Edition</h2>
         <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</span>
-        <h5>Buy This T-shirt At 20% Discount, Use Code OFF20</h5>
+        <h4>Buy This T-shirt At 20% Discount, Use Code OFF20</h4>
         <button>SHOP NOW</button>
       </div>
     </div>
