@@ -6,6 +6,7 @@ import Homeswiper from '../../Components/HomeSwiper/Homeswiper'
 import Homeshop from '../../Components/HomeShop/Homeshop'
 import Homeproduct from '../../Components/HomeProduct/Homeproduct'
 import Homespecial from '../../Components/HomeSpecial/Homespecial'
+import Homeicon from '../../Components/HomeIcons/Homeicon'
 
 const Home = () => {
   return (
@@ -16,6 +17,7 @@ const Home = () => {
         <Homeshop/>
         <Homeproduct/>
         <Homespecial/>
+        <Homeicon/>
       </Layout>
     </div>
   )
