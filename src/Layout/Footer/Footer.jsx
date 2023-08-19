@@ -19,10 +19,18 @@ const Footer = () => {
                 <li><a href="">Tops and Shirts</a></li>
                 <li><a href="">Women Jackets</a></li>
                 <li><a href="">Heels and Flats</a></li>
-                <li><a href=""></a></li>
+                <li><a href="">Women Accessories</a></li>
               </ul>
             </div>
-            <div className="col-xl-2"></div>
+            <div className="col-xl-2">
+            <ul>For Him
+                <li><a href="">Men Jeans</a></li>
+                <li><a href="">Tops and Shirts</a></li>
+                <li><a href="">Women Jackets</a></li>
+                <li><a href="">Heels and Flats</a></li>
+                <li><a href="">Women Accessories</a></li>
+              </ul>
+            </div>
             <div className="col-xl-3"></div>
           </div>
         </div>
