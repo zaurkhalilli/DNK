@@ -25,10 +25,10 @@ const Footer = () => {
             <div className="col-xl-2">
             <ul>For Him
                 <li><a href="">Men Jeans</a></li>
-                <li><a href="">Tops and Shirts</a></li>
-                <li><a href="">Women Jackets</a></li>
-                <li><a href="">Heels and Flats</a></li>
-                <li><a href="">Women Accessories</a></li>
+                <li><a href="">Men Shirts</a></li>
+                <li><a href="">Men Shoes</a></li>
+                <li><a href="">Men Accessories</a></li>
+                <li><a href="">Men Jackets</a></li>
               </ul>
             </div>
             <div className="col-xl-3"></div>
