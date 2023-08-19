@@ -17,9 +17,9 @@ const Footer = () => {
               <ul>For Her
                 <li><a href="">Women Jeans</a></li>
                 <li><a href="">Tops and Shirts</a></li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li><a href="">Women Jackets</a></li>
+                <li><a href="">Heels and Flats</a></li>
+                <li><a href=""></a></li>
               </ul>
             </div>
             <div className="col-xl-2"></div>
