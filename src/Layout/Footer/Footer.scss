@@ -1,6 +1,7 @@
 .footer{
     .footertop{
         padding-top: 30px;
+        padding-bottom: 30px;
         border: 1px solid gray;
         a{
             text-decoration: none;
@@ -8,6 +9,16 @@
             font-size: 1.8rem;
             padding-left: 80px;
             font-weight: 640;
+        }
+    }
+    .footercenter{
+        padding-top: 100px;
+        img{
+            width: 20%;
+        }
+        h3{
+            padding-top: 20px;
+            font-weight: 650;
         }
     }
 }

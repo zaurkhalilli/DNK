@@ -10,9 +10,12 @@ const Footer = () => {
         <div className="container">
           <div className="row">
             <div className="col-xl-5">
+              <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2018/12/logo@2x-free-img.png" alt="" />
+              <h3>The best look anytime, anywhere.</h3>
+            </div>
+            <div className="col-xl-2">
               
             </div>
-            <div className="col-xl-2"></div>
             <div className="col-xl-2"></div>
             <div className="col-xl-3"></div>
           </div>
