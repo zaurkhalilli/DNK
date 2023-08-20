@@ -14,7 +14,6 @@ const Footer = () => {
               <h3>The best look anytime, anywhere.</h3>
             </div>
             <div className="col-xl-2">
-              
               <ul>For Her
                 <li><a href="">Women Jeans</a></li>
                 <li><a href="">Tops and Shirts</a></li>
