@@ -33,7 +33,6 @@ const Footer = () => {
             </div>
             <div className="col-xl-3">
 
-              
             </div>
           </div>
         </div>
