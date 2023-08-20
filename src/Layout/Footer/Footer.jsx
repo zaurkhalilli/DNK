@@ -31,7 +31,9 @@ const Footer = () => {
                 <li><a href="">Men Jackets</a></li>
               </ul>
             </div>
-            <div className="col-xl-3"></div>
+            <div className="col-xl-3">
+              
+            </div>
           </div>
         </div>
       </div>
