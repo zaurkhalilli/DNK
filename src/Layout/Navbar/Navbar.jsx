@@ -20,9 +20,15 @@ const Navbar = () => {
                 </div>
                 <div className="col-xl-4">
                   <div className="rightnav">
+                  <div className="about">
                   <Link to="/about">ABOUT</Link>
+                  </div>
+                  <div className="contact">
                   <a href="">CONTACT US</a>
+                  </div>
+                  <div className="loginregister">
                   <Link to="/login"><PiUserFill size={23} />Login/Register</Link>
+                  </div>
                   </div>
                 </div>
             </div>
