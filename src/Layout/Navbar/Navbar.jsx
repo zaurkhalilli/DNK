@@ -22,7 +22,7 @@ const Navbar = () => {
                   <div className="rightnav">
                   <Link to="/about">ABOUT</Link>
                   <a href="">CONTACT US</a>
-                  <Link to="/login"><PiUserFill size={23} /> Login/Register</Link>
+                  <Link to="/login"><PiUserFill size={23} />Login/Register</Link>
                   </div>
                 </div>
             </div>
