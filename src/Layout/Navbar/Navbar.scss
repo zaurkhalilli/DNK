@@ -25,7 +25,9 @@
    }
    
    .rightnav{
+    display: flex;
     padding-left: 20px;
+    justify-content: space-evenly;
     padding-top: 30px;
     a{
         padding-top: 5px;
