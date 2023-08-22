@@ -8,7 +8,8 @@ const Navbar = () => {
         <div className="container">
             <div className="row">
                 <div className="col-xl-2">
-                   <Link to="/"><img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2018/12/logo1-free-img.png" alt="" /></Link>
+                   <Link to="/">
+                    <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2018/12/logo1-free-img.png" alt="" /></Link>
                 </div>
                 <div className="col-xl-6">
                    <div className="menulinks">
