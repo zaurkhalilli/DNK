@@ -2,6 +2,8 @@ import React from 'react'
 import styled from "../Footer/Footer.scss"
 import {BiLogoFacebook} from "react-icons/bi"
 import {AiFillYoutube} from "react-icons/ai"
+import {AiOutlineTwitter} from "react-icons/ai"
+import {AiOutlineInstagram} from "react-icons/ai"
 const Footer = () => {
   return (
     <div className='footer'>
@@ -56,6 +58,7 @@ const Footer = () => {
             <div className="col-xl-6">
               <BiLogoFacebook/>
               <AiFillYoutube/>
+              <AiOutlineInstagram/>
             </div>
           </div>
         </div>
