@@ -1,5 +1,7 @@
 import React from 'react'
 import styled from "../Footer/Footer.scss"
+import {BiLogoFacebook} from "react-icons/bi"
+import {AiFillYoutube} from "react-icons/ai"
 const Footer = () => {
   return (
     <div className='footer'>
@@ -52,7 +54,8 @@ const Footer = () => {
               <h5>Copyright © 2023 Brandstore. Powered by Brandstore.</h5>
             </div>
             <div className="col-xl-6">
-
+              <BiLogoFacebook/>
+              <AiFillYoutube/>
             </div>
           </div>
         </div>
