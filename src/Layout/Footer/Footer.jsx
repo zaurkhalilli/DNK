@@ -4,6 +4,8 @@ import {BiLogoFacebook} from "react-icons/bi"
 import {AiFillYoutube} from "react-icons/ai"
 import {AiOutlineTwitter} from "react-icons/ai"
 import {AiOutlineInstagram} from "react-icons/ai"
+import {AiOutlineGoogle} from "react-icons/ai"
+import {AiFillLinkedin} from "react-icons/ai"
 const Footer = () => {
   return (
     <div className='footer'>
@@ -56,9 +58,13 @@ const Footer = () => {
               <h5>Copyright © 2023 Brandstore. Powered by Brandstore.</h5>
             </div>
             <div className="col-xl-6">
-              <BiLogoFacebook/>
-              <AiFillYoutube/>
-              <AiOutlineInstagram/>
+              <div className="iconsfooter">
+              <BiLogoFacebook size={25}/>
+              <AiFillYoutube size={25}/>
+              <AiOutlineInstagram size={25}/>
+              <AiOutlineGoogle size={25}/>
+              <AiFillLinkedin size={25}/>
+              </div>
             </div>
           </div>
         </div>
