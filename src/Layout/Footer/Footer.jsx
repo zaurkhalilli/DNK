@@ -59,11 +59,21 @@ const Footer = () => {
             </div>
             <div className="col-xl-6">
               <div className="iconsfooter">
-              <BiLogoFacebook size={25}/>
-              <AiFillYoutube size={25}/>
-              <AiOutlineInstagram size={25}/>
-              <AiOutlineGoogle size={25}/>
-              <AiFillLinkedin size={25}/>
+             <div className="facebook">
+             <BiLogoFacebook size={25}/>
+             </div>
+             <div className="youtube">
+             <AiFillYoutube size={25}/>
+             </div>
+            <div className="instagram">
+            <AiOutlineInstagram size={25}/>
+            </div>
+             <div className="google">
+             <AiOutlineGoogle size={25}/>
+             </div>
+             <div className="linkedin">
+             <AiFillLinkedin size={25}/>
+             </div>
               </div>
             </div>
           </div>

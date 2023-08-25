@@ -59,6 +59,25 @@
         padding-bottom: 10px;
         .iconsfooter{
             float: right;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            margin-right: 100px;
+            .facebook{
+                padding-right: 50px;
+            }
+            .youtube{
+                padding-right: 50px;
+            }
+            .instagram{
+                padding-right: 50px;
+            }
+            .google{
+                padding-right: 40px;
+            }
+            .linkedin{
+                padding-right: 40px;
+            }
         }
     }
 }
