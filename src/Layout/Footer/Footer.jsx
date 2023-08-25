@@ -32,10 +32,14 @@ const Footer = () => {
               </ul>
             </div>
             <div className="col-xl-3">
-              <h4>Subscribe</h4>
+             <div className="rightside">
+             <h4>Subscribe</h4>
+              <br />
               <input type="text" placeholder='Your email address...' />
               <br />
+              <br />
               <button>Subscribe</button>
+             </div>
             </div>
           </div>
         </div>
