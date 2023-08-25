@@ -44,6 +44,10 @@ const Footer = () => {
           </div>
         </div>
       </div>
+      <hr />
+      <div className="footerbottom">
+        
+      </div>
     </div>
   )
 }
