@@ -46,7 +46,16 @@ const Footer = () => {
       </div>
       <hr />
       <div className="footerbottom">
-        
+        <div className="container">
+          <div className="row">
+            <div className="col-xl-6">
+              <h5>Copyright © 2023 Brandstore. Powered by Brandstore.</h5>
+            </div>
+            <div className="col-xl-6">
+
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   )
