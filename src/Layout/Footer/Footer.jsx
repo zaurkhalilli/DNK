@@ -32,9 +32,8 @@ const Footer = () => {
               </ul>
             </div>
             <div className="col-xl-3">
-              <button>
-                
-              </button>
+              <h4>Subscribe</h4>
+              <button>Subscribe</button>
             </div>
           </div>
         </div>
