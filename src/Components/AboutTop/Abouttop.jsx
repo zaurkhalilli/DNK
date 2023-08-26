@@ -35,7 +35,7 @@ const Abouttop = () => {
                 </div>
             </div>
         </div>
-        <h2>About Us</h2>
+        <h1>About Us</h1>
     </div>
   )
 }
