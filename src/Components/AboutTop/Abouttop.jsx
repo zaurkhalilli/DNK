@@ -1,8 +1,8 @@
 import React from 'react'
-
+import styled from "../AboutTop/Abouttop.scss"
 const Abouttop = () => {
   return (
-    <div>
+    <div className='abouttop'>
       
     </div>
   )
