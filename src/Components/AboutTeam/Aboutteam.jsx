@@ -7,7 +7,7 @@ const Aboutteam = () => {
         <hr />
         <p>A Few Words About</p>
         <h2>Our Team</h2>
-        <span>Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra.</span>
+        <h4>Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra.</h4>
       </div>
       <div className="container">
         <div className="row">
