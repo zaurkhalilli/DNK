@@ -12,24 +12,34 @@ const Aboutteam = () => {
       <div className="container">
         <div className="row">
             <div className="col-xl-4">
-                <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2018/12/team2-free-img.png" alt="" />
+            <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2018/12/team2-free-img.png" alt="" />
             <h3>Harvey Spector</h3>
             <p>Founder - CEO</p>
             </div>
             <div className="col-xl-4">
-
+            <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2018/12/team2-free-img.png" alt="" />
+            <h3>Harvey Spector</h3>
+            <p>Founder - CEO</p>
             </div>
             <div className="col-xl-4">
-
+            <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2018/12/team2-free-img.png" alt="" />
+            <h3>Harvey Spector</h3>
+            <p>Founder - CEO</p>
             </div>
             <div className="col-xl-4">
-
+            <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2018/12/team2-free-img.png" alt="" />
+            <h3>Harvey Spector</h3>
+            <p>Founder - CEO</p>
             </div>
             <div className="col-xl-4">
-
+            <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2018/12/team2-free-img.png" alt="" />
+            <h3>Harvey Spector</h3>
+            <p>Founder - CEO</p>
             </div>
             <div className="col-xl-4">
-                
+            <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2018/12/team2-free-img.png" alt="" />
+            <h3>Harvey Spector</h3>
+            <p>Founder - CEO</p>
             </div>
         </div>
       </div>
