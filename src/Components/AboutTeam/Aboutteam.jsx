@@ -37,7 +37,6 @@ const Aboutteam = () => {
             <p>Intern Designer</p>
             </div>
             <div className="col-xl-4">
-                
             <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2018/12/team6-free-img.png" alt="" />
             <h3>Mike Ross</h3>
             <p>Intern Designer</p>
