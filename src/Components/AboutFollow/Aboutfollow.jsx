@@ -13,16 +13,16 @@ const Aboutfollow = () => {
         <h2>Follow Us</h2>
         <div className="followicons">
         <div className="facebook">
-            <BiLogoFacebook/>
+            <BiLogoFacebook size={25}/>
         </div>
         <div className="twitter">
-            <BsTwitter/>
+            <BsTwitter size={22}/>
         </div>
         <div className="instagram">
-            <AiOutlineInstagram/>
+            <AiOutlineInstagram size={24}/>
         </div>
         <div className="google">
-            <AiOutlineGooglePlus/>
+            <AiOutlineGooglePlus size={25}/>
         </div>  
         </div>
       </div>
