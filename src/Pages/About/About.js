@@ -3,6 +3,7 @@ import Footer from '../../Layout/Footer/Footer'
 import Abouttop from '../../Components/AboutTop/Abouttop'
 import Aboutwe from '../../Components/AboutWe/Aboutwe'
 import Aboutteam from '../../Components/AboutTeam/Aboutteam'
+import Aboutfollow from '../../Components/AboutFollow/Aboutfollow'
 
 const About = () => {
   return (
@@ -10,6 +11,7 @@ const About = () => {
       <Abouttop/>
       <Aboutwe/>
       <Aboutteam/>
+      <Aboutfollow/>
       <Footer/>
     </div>
   )
