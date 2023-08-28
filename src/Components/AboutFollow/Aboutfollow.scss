@@ -1,3 +1,13 @@
 .follow{
     background-image: url("https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2019/12/banner-05.jpg");
+    .followtxt{
+        background-color: #f5f7f9;
+        text-align: center;
+        width: 400px;
+        margin: 0 auto;
+        hr{
+            margin: 0 auto;
+            width: 20%;
+        }
+    }
 }

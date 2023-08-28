@@ -4,6 +4,7 @@ const Aboutfollow = () => {
   return (
     <div className='follow'>
       <div className="followtxt">
+        <br />
         <hr />
         <h2>Follow Us</h2>
         <div className="followicons">
