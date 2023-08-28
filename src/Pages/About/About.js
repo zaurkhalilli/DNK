@@ -4,6 +4,7 @@ import Abouttop from '../../Components/AboutTop/Abouttop'
 import Aboutwe from '../../Components/AboutWe/Aboutwe'
 import Aboutteam from '../../Components/AboutTeam/Aboutteam'
 import Aboutfollow from '../../Components/AboutFollow/Aboutfollow'
+import Abouticon from '../../Components/AboutIcons/Abouticon'
 
 const About = () => {
   return (
@@ -12,6 +13,7 @@ const About = () => {
       <Aboutwe/>
       <Aboutteam/>
       <Aboutfollow/>
+      <Abouticon/>
       <Footer/>
     </div>
   )
