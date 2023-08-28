@@ -16,7 +16,7 @@ const Aboutfollow = () => {
             <BiLogoFacebook size={25}/>
         </div>
         <div className="twitter">
-            <BsTwitter size={22}/>
+            <BsTwitter size={21}/>
         </div>
         <div className="instagram">
             <AiOutlineInstagram size={24}/>
