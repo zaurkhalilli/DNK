@@ -3,6 +3,7 @@ import styled from "../AboutFollow/Aboutfollow.scss"
 import {BiLogoFacebook} from "react-icons/bi"
 import {BsTwitter} from "react-icons/bs"
 import {AiOutlineInstagram} from "react-icons/ai"
+import {AiOutlineGooglePlus} from "react-icons/ai"
 const Aboutfollow = () => {
   return (
     <div className='follow'>
@@ -21,7 +22,7 @@ const Aboutfollow = () => {
             <AiOutlineInstagram/>
         </div>
         <div className="google">
-            
+            <AiOutlineGooglePlus/>
         </div>  
         </div>
       </div>
