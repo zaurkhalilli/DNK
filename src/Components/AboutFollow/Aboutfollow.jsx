@@ -1,5 +1,6 @@
 import React from 'react'
 import styled from "../AboutFollow/Aboutfollow.scss"
+import {BiLogoFacebook} from "react-icons/bi"
 const Aboutfollow = () => {
   return (
     <div className='follow'>
@@ -9,7 +10,7 @@ const Aboutfollow = () => {
         <h2>Follow Us</h2>
         <div className="followicons">
         <div className="facebook">
-
+            <BiLogoFacebook/>
         </div>
         <div className="twitter">
 
