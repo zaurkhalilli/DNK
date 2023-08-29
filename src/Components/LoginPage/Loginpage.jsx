@@ -1,5 +1,5 @@
 import React from 'react'
-import styled from "../LoginPage/Login.scss"
+import styled from "../LoginPage/Loginpage.scss"
 const Login = () => {
   return (
     <div className='login'>
