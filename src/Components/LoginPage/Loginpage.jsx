@@ -17,6 +17,7 @@ const Login = () => {
             <button>Login</button>
             </div>
         </div>
+        <a href="">Lost your password?</a>
     </div>
   )
 }

@@ -7,6 +7,11 @@
         padding-top: 50px;
         padding-bottom: 40px;
     }
+    a{
+        color: rgba(0, 0, 0, 0.685);
+        text-decoration: none;
+        margin-right: 200px;
+    }
     .container{
         text-align: start;
         width: 400px;
@@ -19,7 +24,7 @@
         }
         input{
             margin-left: 20px;
-            padding: 7px;
+            padding: 8px;
             border-radius: 5px;
             width: 90%;
         }
