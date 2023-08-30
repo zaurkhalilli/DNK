@@ -1,5 +1,7 @@
 import React from 'react'
 import styled from "../LoginPage/Loginpage.scss"
+import {Link} from "react-router-dom"
+import {AiOutlineArrowLeft} from "react-icons/ai"
 const Login = () => {
   return (
     <div className='login'>
@@ -18,6 +20,8 @@ const Login = () => {
             </div>
         </div>
         <a href="">Lost your password?</a>
+        <br />  
+        <Link to="/"> <AiOutlineArrowLeft/> Go to Brandstore</Link>
     </div>
   )
 }
