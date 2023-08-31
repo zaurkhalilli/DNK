@@ -10,7 +10,6 @@ const Login = () => {
             <label htmlFor="">Username or Email Address</label>
             <br />
             <input type="text" />
-            
             <br />
             <label htmlFor="">Password</label>
             <br />
