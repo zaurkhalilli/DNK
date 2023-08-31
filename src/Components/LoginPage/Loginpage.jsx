@@ -13,7 +13,6 @@ const Login = () => {
             <br />
             <label htmlFor="">Password</label>
             <br />
-            
             <input type="password" />
             <br />
             <div className="loginbtn">
