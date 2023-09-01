@@ -21,6 +21,7 @@ const Abouticon = () => {
                 <span>It elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</span>
             </div>
             <div className="col-xl-3">
+              
                 <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2018/12/lock-free-img.png" alt="" />
                 <p>Secure Payments</p>
                 <span>It elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</span>
