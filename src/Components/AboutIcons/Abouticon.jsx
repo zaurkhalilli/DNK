@@ -8,6 +8,7 @@ const Abouticon = () => {
             <div className="col-xl-3">
                 <img src="https://websitedemos.net/brandstore-02/wp-content/uploads/sites/150/2018/12/globe-free-img.png" alt="" />
                 <p>Worldwide Shipping</p>
+                
                 <span>It elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</span>
             </div>
             <div className="col-xl-3">
